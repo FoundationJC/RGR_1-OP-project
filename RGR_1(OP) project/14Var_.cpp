@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-using namespace std;
+using namespace std; // погана практика
 
 // Функція для перевірки, чи символ є літерою від A до K
 bool isLetterAtoK(char c) {

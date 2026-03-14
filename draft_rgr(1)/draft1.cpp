@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std;
+using namespace std; // вважається поганою практикою
 // "-123" "1q23" "0123" "0"
 bool isInteger( char  str[], int n) {
 	if (n == 0) { return false; }
